@@ -7,9 +7,12 @@ Il faut  utiliser comme language de programmation :
 * (Option JS)
 
 ## Aide
-* Regex [https://regex101.com/]
-* Array [https://www.php.net/manual/fr/function.array-chunk.php]
-* Eval [https://www.php.net/manual/fr/function.eval.php]
+* [Regex](https://regex101.com/)
+* [Array](https://www.php.net/manual/fr/function.array-chunk.php)
+* [Eval](https://www.php.net/manual/fr/function.eval.php)
 
 ## Framework CSS
-* uikit [https://getuikit.com]
+* [uikit](https://getuikit.com)
+
+### Exemple
+![Exemple calculatrice](calculatrice.png)
